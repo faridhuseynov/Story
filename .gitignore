@@ -1,0 +1,7 @@
+.DS_Store
+secrets.txt
+
+#Comment can be written this way
+
+#*.txt 
+#this means that all files with txt extension will be ignored
